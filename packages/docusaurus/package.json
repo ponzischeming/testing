@@ -70,7 +70,7 @@
     "fs-extra": "^10.0.0",
     "globby": "^11.0.2",
     "html-minifier-terser": "^6.0.2",
-    "html-tags": "^3.1.0",
+    "html-tags": "^5.1.0",
     "html-webpack-plugin": "^5.4.0",
     "import-fresh": "^3.3.0",
     "is-root": "^2.1.0",
