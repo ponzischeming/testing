@@ -24,7 +24,7 @@
     "build:copy": "node copyUntypedFiles.mjs"
   },
   "dependencies": {
-    "@docsearch/react": "^3.0.0-alpha.39",
+    "@docsearch/react": "^4.6.3",
     "@docusaurus/core": "2.0.0-beta.14",
     "@docusaurus/logger": "2.0.0-beta.14",
     "@docusaurus/theme-common": "2.0.0-beta.14",
