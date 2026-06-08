@@ -30,13 +30,13 @@
     "prompts": "^2.4.1",
     "semver": "^7.3.4",
     "shelljs": "^0.8.4",
-    "supports-color": "^8.1.1",
+    "supports-color": "^10.2.2",
     "tslib": "^2.3.1"
   },
   "engines": {
     "node": ">=14"
   },
   "devDependencies": {
-    "@types/supports-color": "^8.1.1"
+    "@types/supports-color": "^10.0.0"
   }
 }

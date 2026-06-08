@@ -27,6 +27,6 @@
     "node": ">=14"
   },
   "devDependencies": {
-    "@types/supports-color": "^8.1.1"
+    "@types/supports-color": "^10.0.0"
   }
 }
