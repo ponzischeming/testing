@@ -31,7 +31,7 @@
     "@docusaurus/core": "2.0.0-beta.14",
     "@docusaurus/module-type-aliases": "2.0.0-beta.14",
     "@docusaurus/types": "2.0.0-beta.14",
-    "@testing-library/react-hooks": "^7.0.2",
+    "@testing-library/react-hooks": "^8.0.1",
     "lodash": "^4.17.20"
   },
   "peerDependencies": {
